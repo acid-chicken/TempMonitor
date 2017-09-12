@@ -1,0 +1,6 @@
+(\.|-)(bundle\.)?min\.(js|css)$ linguist-vendored
+(^|/)font-awesome\.(css|less|scss|styl)$ linguist-vendored
+(^|/)jquery([^.]*)\.js$ linguist-vendored
+(^|/)jquery\-\d\.\d+(\.\d+)?\.js$ linguist-vendored
+(^|/)Chart\.js$ linguist-vendored
+\.(eot|otf|svg|ttf|woff2?)$ linguist-vendored
